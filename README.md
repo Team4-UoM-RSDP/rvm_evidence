@@ -1,2 +1,1 @@
-# rvm-evidence
-Evidence for the Requirements Verification Matrix (RVM)
+# Team 4 Evidence for the Requirements Verification Matrix (RVM)
