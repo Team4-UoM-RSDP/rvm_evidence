@@ -1,7 +1,7 @@
 # PR1.1
 
 __Requirement:__
-> The map shall cover the operational area (≈ 3750 mm x 6500 mm).
+> The map shall cover the operational area approximately.
 
 __Success Criteria:__
 > Map size matches measured environment within ±15%.

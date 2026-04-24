@@ -7,6 +7,6 @@ __Success Criteria:__
 > Manipulator grasps described blocks.
 
 __Method of Evaluation:__
-> Command manipulator to grasp described blocks.
+> Test covered by [FR4](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR04)
 
 ## Evidence
