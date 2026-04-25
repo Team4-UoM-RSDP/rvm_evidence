@@ -1,12 +1,12 @@
 # PR8.1
 
 __Requirement:__
-> The rover battery shall support ≥ 20 minutes of operation.
+> High-power hardware shall use a separate power source.
 
 __Success Criteria:__
-> Runtime exceeds 20 minutes.
+> No component overdraws Rover battery.
 
 __Method of Evaluation:__
-> Start timer and operate rover continuously until battery shutdown or 20 minute time limit reached.
+> Verify NUC is not connected to Rover battery.
 
 ## Evidence

@@ -7,6 +7,6 @@ __Success Criteria:__
 > Runtime exceeds 20 minutes.
 
 __Method of Evaluation:__
-> Verify NUC is not connected to Rover battery.
+> Start timer and operate rover continuously until task duration reached or battery is empty.
 
 ## Evidence
