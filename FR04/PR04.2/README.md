@@ -10,3 +10,11 @@ __Method of Evaluation:__
 > Attach calibrated 125 g test weight and command the manipulator to lift while timing duration.
 
 ## Evidence
+
+A mass of 125.63 g was attatched to the gripper.
+
+![image](PR4_2.JPG)
+
+The manipulator was commanded to lift the mass from the fully extended position to the gome position. The mass was held for over 5 s, timed using a stopwatch.
+
+![video]()
