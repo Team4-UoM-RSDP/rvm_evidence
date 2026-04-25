@@ -1,4 +1,4 @@
-# PR4.4
+# PR4.2
 
 __Requirement:__
 > The manipulator shall lift a payload of up to 125 g.
@@ -15,6 +15,6 @@ A mass of 125.63 g was attatched to the gripper.
 
 ![image](PR4_2.JPG)
 
-The manipulator was commanded to lift the mass from the fully extended position to the gome position. The mass was held for over 5 s, timed using a stopwatch.
+The manipulator was commanded to lift the mass from the fully extended position to the home position. The mass was held for over 5 s, timed using a stopwatch.
 
 ![video]()
