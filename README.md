@@ -7,8 +7,8 @@
 2. [FR2:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR02) _The software shall determine the robot’s position within the environment._
     1. [PR2.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR02/PR02.1) _The system shall record and recall the starting position._
 3. [FR3:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR03) _The software shall detect and classify objects in the environment._
-    1. [PR3.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR03/PR03.1) _The vision system shall detect colours in the hue ranges (red/yellow)._
-    2. [PR3.2:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR03/PR03.2) _The vision system shall detect blocks of the specified size and shape._
+    1. [:green_circle: PR3.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR03/PR03.1) _The vision system shall detect colours in the hue ranges (red/yellow)._
+    2. [:green_circle: PR3.2:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR03/PR03.2) _The vision system shall detect blocks of the specified size and shape._
     3. [PR3.3:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR03/PR03.3) _The vision system shall provide 3D positions of detected objects._
 4. [FR4L](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR04) _The robot’s manipulator shall be able to grip a coloured block and lift it._
     1. [PR4.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR04/PR04.1) _The manipulator’s end-effector shall grasp blocks with 6 flat sides._
