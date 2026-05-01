@@ -19,7 +19,7 @@
     1. [PR6.1: ](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR06/PR06.1) _At 280 mm reach carrying payload, no wheel lifts._
 7. [FR7:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR07) _The software shall navigate between locations._
     1. [PR7.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR07/PR07.1) _The robot shall autonomously navigate to unknown areas._
-8. [FR8:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR08) _Power consumption shall allow full task duration._
+8. [:green_circle: FR8:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR08) _Power consumption shall allow full task duration._
     1. [PR8.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR08/PR08.1) _High-power hardware shall use a separate power source._
 9. [FR9](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR09): _The robot shall accept user inputs._
     1. [PR9.1:](https://github.com/Team4-UoM-RSDP/rvm_evidence/tree/main/FR09/PR09.1) _The robot shall accept Start and Stop commands._
